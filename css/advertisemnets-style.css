@@ -1,0 +1,20 @@
+.advertisements-outer-container{width:96%;margin:2%;}
+.advertisements-outer-container form{width: 95%;float: left;margin: 0 0 25px 17px;}
+.advertisements-outer-container form .advertisemnets-fields{margin:20px 0 0 0;}
+.advertisements-outer-container  input[type=text]{width:85%;height:2.7em;}
+.advertisements-outer-container form input[type=submit]{display:none;background: none repeat scroll 0 0 #2ea2cc;border: medium none;color: #fff;margin: 15px 0 0 0px;padding: 5px;width: 100px;cursor:pointer;}
+.advertisements-outer-container .advertisements{width:100%;float:left;}
+.advertisements-outer-container .advertisements img{width:90px;}
+span.error{width: 73%;float: rightt;color: #FF0000;font-size: 15px;margin: 0 0 11px 0;float: right;}
+.advertisemnets-fields .advertisement_media_upload_field{width: 6%;float:left;clear:both; margin: 10px 0px 0px 0px;}
+.advertisemnets-fields .advertisement_media_upload_field input{background: url("../images/upload.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);   border: medium none;   cursor: pointer;   float: left;   height: 32px;   text-indent: -9999px; width: 32px;outline:none;}
+
+.advertisemnets-fields .uploaded_images{ float:left;width:100%;}
+.advertisemnets-fields .uploaded_images .add{float:left; position:relative; margin: 0px 10px 0px 10px;}
+
+.advertisements-outer-container .uploaded_images .add a.delete-banner-item{background: url("../images/delete.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);float: left;height: 19px;position: absolute;right: -10px;text-indent: -9999px;top: -10px;width: 20px;}
+.advertisements-outer-container i{ float:left; margin:0px 0px 10px 0px;font-size:12px;width:100%;}
+
+.ad_info{float: left;background: #fff;width: 96%;padding: 0px 2%;margin: 10px 0px 0px 0px;border: 1px solid;}
+.ad_info p{  float: left;font-size: 14px;font-style: italic;}
+table.custom-advert-cont{  width: 100%;float: left;border-color: #fefefe;background: #fff;}
