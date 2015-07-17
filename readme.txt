@@ -5,7 +5,7 @@ Tested up to: 4.2
 Stable tag: 4.2
 Contributors: Arsh Sharma
 Donate Link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7SHYWY7SC9NSL
-Requires at least: 4.0
+Requires at least: 3.0.1
 
 By use of this plugin, users can add and display advertisements on any location on website. 
 == Description ==
