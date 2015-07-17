@@ -18,6 +18,7 @@ Major features in Custom Advertisements include:
 
 * Place the shortcode on desired location.
 * Also give you the advertisement click count or visit count on each advertisement.
+* I am happy to help you guys, For any query feel free to contact me at : arshsharma91@gmail.com
 
 == Installation ==
 
